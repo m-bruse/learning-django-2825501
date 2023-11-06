@@ -1,0 +1,15 @@
+django app pieces
+
+apps.py
+
+models.py
+
+
+admin.py - admin interface
+urls.py - url routings
+
+views.py - logic and control flow
+
+tests.py - unit tests
+
+migrations/  - holds files for database schema
